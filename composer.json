@@ -1,0 +1,16 @@
+{
+    "name": "jayya/phpmvcframework",
+    "authors": [
+        {
+            "name": "jaysgithubrepos",
+            "email": "jayyadav010994@gmail.com"
+        }
+    ],
+    "autoload": {
+
+         "psr-4": {
+            "app\\":"."
+         }
+    },
+    "require": {}
+}
